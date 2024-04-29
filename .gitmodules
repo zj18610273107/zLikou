@@ -1,0 +1,12 @@
+[submodule "common/micro-ecc"]
+	path = common/micro-ecc
+	url = https://github.com/kmackay/micro-ecc.git
+[submodule "sha256.c"]
+	path = common/sha256.c
+	url = git@github.com:jb55/sha256.c.git
+[submodule "cJSON"]
+	path = common/cJSON
+	url = git@github.com:DaveGamble/cJSON.git
+[submodule "common/GmSSL"]
+	path = common/GmSSL
+	url = git@github.com:guanzhi/GmSSL.git
